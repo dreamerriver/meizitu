@@ -1,5 +1,7 @@
 The Project is a demo to scrapy  from Baidu,with the images of girls being downloaded,and you can refactor the file /meizi/spiders/meitu.py,then just replace the keyword "美女" with other keyword and to download which kind of images you want.
+
 Firstly,you must have python installed  on your pc,and the code is for python3,python2 may do not work.
+
 Secondly,if you do not have installed scrapy ,just run the command 
 
 <code>pip install scrapy</code>
